@@ -1,5 +1,5 @@
-# AWS Uniqlo Inventory System Project
-This project was designed to implement tools I hadn't used in previous projects, and to integrate them into a mock inventory management system for a clothing store such Uniqlo. 
+# AWS Inventory System Project
+This project was designed to implement tools I hadn't used in previous projects, and to integrate them into a mock inventory management system for a clothing store. 
 
 The AWS infrastructure here was created with Terraform (IaC), meaning it can be deployed to an AWS account programmatically, enabling easy infrastructure management and iteration. CI/CD is also integrated via GitHub with included tests, so any Git Push command to the repo triggers automatic tests and infrastructure deployment. 
 
